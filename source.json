@@ -1,12 +1,12 @@
 {
-    "name": "Matcha Test Demo 05",
+    "name": "Matcha Test Demo 06",
     "featuredApps": [
-        "devplaceholder.Q9WITZP3.Matcha-Demo-Test-05"
+        "devplaceholder.G1JTP80G.adam-skill-test"
     ],
     "apps": [
         {
             "name": "Matcha Test",
-            "bundleIdentifier": "devplaceholder.Q9WITZP3.Matcha-Demo-Test-05",
+            "bundleIdentifier": "devplaceholder.G1JTP80G.adam-skill-test",
             "developerName": "Maddie McCarthy",
             "localizedDescription": "Three simple matcha recipes in one offline app: Iced Vanilla Matcha, Strawberry Matcha Latte, and Honey Oat Matcha. Tap a recipe for ingredient quantities, prep time, and numbered instructions.",
             "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/matcha-test-demo-02/main/icon.png",
@@ -15,8 +15,8 @@
                     "version": "1.0",
                     "buildVersion": "1",
                     "date": "2026-11-18",
-                    "downloadURL": "https://github.com/maddiemccarthy/matcha-test-demo-02/releases/download/demo05-v1.0/MatchaTest.ipa",
-                    "size": 68071,
+                    "downloadURL": "https://github.com/maddiemccarthy/matcha-test-demo-02/releases/download/demo06-v1.0/MatchaTest.ipa",
+                    "size": 104319,
                     "minOSVersion": "27.0"
                 }
             ],
